@@ -1,0 +1,34 @@
+{
+  "libraryId": "generated",
+  "id": "RSKmpB9F52",
+  "componentId": "4HewCsH07n",
+  "name": "Name",
+  "description": "",
+  "status": "saved",
+  "orderIdx": "03qKK",
+  "revision": 0,
+  "model": "",
+  "view": "<section class=\"-grid--custom\"></section>",
+  "diff": {},
+  "breakpointIds": null,
+  "datasourceIds": [],
+  "isEmbeddable": false,
+  "forkOriginId": null,
+  "forkOriginRevision": 0,
+  "forkedAt": null,
+  "classList": [
+    "-theme--default"
+  ],
+  "createdAt": "2025-03-13T19:31:34.759Z",
+  "deletedAt": null,
+  "modifiedAt": "2025-03-13T19:31:39.81Z",
+  "modifiedBy": {
+    "id": "6377b51876aba1698d55b06d",
+    "name": "steve@icreon.com",
+    "givenName": "Steve",
+    "familyName": "Lamensdorf",
+    "email": "steve@icreon.com",
+    "picture": "https://s.gravatar.com/avatar/d34001db97163f9e923ad82636f82913?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fst.png",
+    "nickname": "steve"
+  }
+}

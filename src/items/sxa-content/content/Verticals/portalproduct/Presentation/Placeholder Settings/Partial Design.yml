@@ -1,0 +1,13 @@
+﻿---
+ID: "8f630f99-55de-4418-85fc-34cd3c89ad25"
+Parent: "22b6c0b4-8c4d-4719-8f3b-2406c8046102"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/Verticals/portalproduct/Presentation/Placeholder Settings/Partial Design
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8fb95e4-e33f-4ecf-9008-ca6822f4befc"

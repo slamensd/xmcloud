@@ -1,0 +1,13 @@
+﻿---
+ID: "d4158405-221a-4af7-bfe2-1d7efec0153f"
+Parent: "d44d573f-a4a6-48f6-ad4a-cadb2ec6b028"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/Verticals/portalproduct/Data/Tags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0504b465-eaee-4598-927e-eeb118f056c7"

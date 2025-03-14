@@ -1,0 +1,13 @@
+﻿---
+ID: "e501cbca-a56d-4571-b492-42f2be2b70b0"
+Parent: "d44d573f-a4a6-48f6-ad4a-cadb2ec6b028"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/portalproduct/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e137fe55-e78c-45ec-bdcb-e1559f802b7b"

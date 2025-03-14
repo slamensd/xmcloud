@@ -1,0 +1,13 @@
+﻿---
+ID: "5d5cb404-fb37-430b-ae77-e30dc2448db2"
+Parent: "d44d573f-a4a6-48f6-ad4a-cadb2ec6b028"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/Verticals/portalproduct/Data/Link Lists
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59816531-414d-4375-aac3-486868560a81"

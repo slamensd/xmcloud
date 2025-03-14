@@ -1,0 +1,13 @@
+﻿---
+ID: "fedf5819-cac5-4929-bc1b-4c9803b8828c"
+Parent: "d44d573f-a4a6-48f6-ad4a-cadb2ec6b028"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: /sitecore/content/Verticals/portalproduct/Data/Images
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "824fb1b5-da1b-465d-a3b5-2906a4f0892b"

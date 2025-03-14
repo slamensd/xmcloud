@@ -1,0 +1,13 @@
+﻿---
+ID: "c7c91662-a3b1-4d61-b120-6bd05e35d060"
+Parent: "382c0001-d24a-4b96-9faf-6e4d6470db42"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/portalproduct/Sitemaps/portalproduct
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42f4182d-6812-4744-8b33-b7c1e8802057"
