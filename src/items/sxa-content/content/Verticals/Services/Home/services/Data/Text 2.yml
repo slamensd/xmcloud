@@ -14,9 +14,7 @@ Languages:
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
       Value: |
-        <p>Our agency provides digital solutions that empower your business with innovative strategies and cutting-edge technology. We bring expertise and creativity to every project, ensuring your brand stands out in a crowded marketplace.</p>
-        <p>At the heart of our services is a commitment to results-driven marketing that aligns with your business goals. By partnering with us, you're choosing a team that values collaboration and creativity.</p>
-        
+        <div class="ck-content"><p>&nbsp;Ready to elevate your business? We harness cutting-edge tech to boost your brand.</p><p>Our mission: results-driven marketing that aligns with your vision. Partner with us for innovative, tailored strategies that drive growth and ROI. Let's transform your business, together.</p><p>Services: SEO, PPC, social media marketing, content creation, analytics. We craft custom strategies for measurable results. Your vision + our expertise = standout campaigns that drive engagement.</p><p>What sets us apart? Transparent communication and continuous improvement. Regular updates and detailed reports keep you informed. We adapt to maximize our efforts for sustained growth.</p><p>Choose a digital marketing agency that cares. Let's unlock new opportunities for your business, together.</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d171e312-f1bd-4a56-b8d3-413676cac7d4"
+      Value: "c0e9bc89-2512-4c58-96e9-5a0d09fe57e6"

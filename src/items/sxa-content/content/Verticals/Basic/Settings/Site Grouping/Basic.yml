@@ -16,6 +16,9 @@ SharedFields:
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: "slamensdtwo-dt0mirem0qcdrkom8ubhw-basic.vercel.app"
+- ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
+  Hint: POS
+  Value: en=basic
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Basic
@@ -35,4 +38,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "80993e42-09eb-446b-babb-0ffb08be8f0f"
+      Value: "707e9e0d-5ac4-4a38-94a9-3d68ee8cc401"

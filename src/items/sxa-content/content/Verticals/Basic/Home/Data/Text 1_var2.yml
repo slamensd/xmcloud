@@ -1,0 +1,37 @@
+﻿---
+ID: "a518ad81-3542-4ceb-af22-0a85345336f2"
+Parent: "fc7dac53-2350-4877-9b5b-ef21c820c2cd"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Basic/Home/Data/Text 1_var2
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3DC11FDE-F4BF-4799-A50A-0A8C64A3622D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><h4>Empowering the visionaries of skate culture with unparalleled essentials</h4></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41026cf2-2615-4af8-834f-6b7eeb8bf970"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: <h4>Fournir des produits de base en gros aux meilleures marques de skate</h4>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a3b0d2d-8be3-41e7-9dd3-f008d15f6664"
