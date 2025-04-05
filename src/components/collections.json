@@ -155,6 +155,45 @@
     "orderIdx": "",
     "createdAt": "2023-06-28T12:45:53.685Z",
     "modifiedAt": "2023-06-28T12:45:53.685Z",
-    "components": []
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "aGU0khS_jt",
+        "collectionId": "default",
+        "name": "fadsfv",
+        "description": "",
+        "status": "changed",
+        "versionCount": 1,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2025-04-04T17:53:53.837Z",
+        "stagedAt": null,
+        "publishedAt": null,
+        "modifiedAt": "2025-04-04T17:54:21.321Z",
+        "modifiedBy": {
+          "id": "6377b51876aba1698d55b06d",
+          "name": "steve@icreon.com",
+          "email": "steve@icreon.com",
+          "picture": "https://s.gravatar.com/avatar/d34001db97163f9e923ad82636f82913?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fst.png",
+          "nickname": "steve",
+          "givenName": "Steve",
+          "familyName": "Lamensdorf"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "aGU0khS_jt",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2025-04-04T17:53:58.35Z",
+            "modifiedAt": "2025-04-04T17:53:58.35Z"
+          }
+        ]
+      }
+    ]
   }
 ]
