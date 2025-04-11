@@ -180,19 +180,7 @@
           "givenName": "Steve",
           "familyName": "Lamensdorf"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "aGU0khS_jt",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-04-04T17:53:58.35Z",
-            "modifiedAt": "2025-04-04T17:53:58.35Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }

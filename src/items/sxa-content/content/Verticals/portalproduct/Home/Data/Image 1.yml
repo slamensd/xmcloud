@@ -1,0 +1,13 @@
+﻿---
+ID: "05f810b0-10c9-4202-ba46-7fad7ab7a81d"
+Parent: "0f5eee01-651b-4e20-a635-8b60e63d3523"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: /sitecore/content/Verticals/portalproduct/Home/Data/Image 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75409280-a5d1-4b93-8a8a-4ad00e92505d"

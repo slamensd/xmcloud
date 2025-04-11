@@ -5,6 +5,9 @@ Template: "f83ccefd-fc41-4a60-9882-8f7ea5cf41a8"
 Path: /sitecore/content/Verticals/portalproduct/Home
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "068019e7-8fc6-462d-a337-2b1d36e6e7f5"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
@@ -31,13 +34,26 @@ Languages:
               s:ph="headless-header" />
             <r
               uid="{7D282145-3D34-4649-AD70-B4497AF79075}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{8556BBEE-C2DE-4275-8288-453AF215108B}']"
               s:ds="local:/Data/Text 1"
               s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B64C8791F-D6F5-4459-8592-33D91D3F18CB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
               s:ph="/headless-header/container-2" />
+            <r
+              uid="{CA7B0FD5-E9DF-44D5-B914-1B4A9A7D6F3A}"
+              p:after="r[@uid='{7D282145-3D34-4649-AD70-B4497AF79075}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B152656EA-271D-413B-8304-3006FB93980A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{D551E8E3-3DD8-4834-A468-CACF901D53AE}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BEA241B51-D215-41C2-B6C5-FF4AB7D21F1B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="headless-footer" />
           </d>
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ae0992e5-6398-4947-b143-8e450aed6722"
+      Value: "9c539f5b-9e76-41f5-9a05-f751e5508db1"

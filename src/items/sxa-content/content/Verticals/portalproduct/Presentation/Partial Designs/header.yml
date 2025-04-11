@@ -1,0 +1,20 @@
+﻿---
+ID: "a654681c-764c-4c79-ad98-918c0f076450"
+Parent: "e7131dba-51ab-4a0c-8829-ba0c16e52286"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Verticals/portalproduct/Presentation/Partial Designs/header
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0ea933ea-e7e0-4af2-8b85-04d19ce72712"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd06e90c-1893-43bd-bc95-2908cf34390b"
